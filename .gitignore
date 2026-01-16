@@ -1,0 +1,22 @@
+# 排除 data 文件夹（所有位置）
+data/
+**/data/
+
+# 排除所有 output 和 outputs 文件夹（所有位置）
+output/
+outputs/
+**/output/
+**/outputs/
+
+# 系统文件
+.DS_Store
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+
+Comparison/models/**/*

@@ -1,0 +1,9 @@
+Model,Variant,MAE,RMSE
+DepAudioNet,pre,5.206±0.538,6.281±0.857
+DepAudioNet,cue-exclude,5.322±0.368,6.409±0.647
+DALF,pre,5.284±0.480,6.284±0.677
+DALF,cue-exclude,5.583±0.374,6.538±0.384
+ABAFnet,pre,5.497±0.461,6.377±0.227
+ABAFnet,cue-exclude,5.883±0.902,6.415±0.774
+STFN,pre,5.048±0.396,6.869±0.473
+STFN,cue-exclude,5.053±0.396,6.874±0.474
